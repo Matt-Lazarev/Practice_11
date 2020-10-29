@@ -1,4 +1,4 @@
-package ru.mirea.inbo0519.pr10.task2;
+package ru.mirea.inbo0519.pr11.task2;
 
 import java.util.NoSuchElementException;
 

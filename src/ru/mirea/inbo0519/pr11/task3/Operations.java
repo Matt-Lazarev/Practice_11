@@ -1,4 +1,4 @@
-package ru.mirea.inbo0519.pr10.task3;
+package ru.mirea.inbo0519.pr11.task3;
 
 public class Operations {
     char[] operations;

@@ -1,4 +1,4 @@
-package ru.mirea.inbo0519.pr10.task1;
+package ru.mirea.inbo0519.pr11.task1;
 
 public class ArrayQueue<T> {
     /*
